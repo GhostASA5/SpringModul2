@@ -1,0 +1,2 @@
+app:
+  creat-students: ${CREATE_ON_START:true}
